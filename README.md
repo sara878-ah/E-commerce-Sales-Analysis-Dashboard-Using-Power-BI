@@ -13,14 +13,15 @@ The PDF is the current published project deliverable. It can be opened directly 
 | File | Description |
 | --- | --- |
 | [first projct after.pdf](first%20projct%20after.pdf) | Dashboard report (PDF) |
+| [first projct.zip](first%20projct.zip) | Uploaded Power BI project archive (ZIP; extract before using) |
 
 ## Project Status
 
 - Dashboard PDF: available
-- Editable Power BI source file (`.pbix`): not currently included
+- Project archive (ZIP): available; a standalone `.pbix` file is not directly included
 - Dataset and documentation: not currently included
 
-To allow reviewers to explore the dashboard interactively, add the original `.pbix` file if available.
+To work with the project archive, download and extract the ZIP. A standalone `.pbix` file can be added separately when available.
 
 ## Tools
 
